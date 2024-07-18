@@ -16,3 +16,7 @@ body{
     background-repeat: no-repeat;
 
 }
+.titulo{
+    text-align: center;
+    font-size: larger;
+}
