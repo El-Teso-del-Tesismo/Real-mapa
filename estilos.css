@@ -22,9 +22,9 @@ body{
 }
 
 .img1{
-    height: 600px;
-    width: 1000px;
-    background-image: url("fondo\ 3.jpg");
-    background-repeat: no-repeat;
-    background-position: 500px;
+    height: 922px;
+    width: 1368px;
+    background-image: url("fondo\ 6.png");
+    background-repeat: no-repeat ;
+    display: flex;
 }
