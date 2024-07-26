@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 40px;
+    padding-top: 100px;
     text-align: justify;
     color: rgb(20, 20, 20);
 }
@@ -12,11 +12,19 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("4.jpeg");
     background-repeat: no-repeat;
-
+   
 }
 .titulo{
     text-align: center;
     font-size: larger;
+}
+
+.img1{
+    height: 600px;
+    width: 1000px;
+    background-image: url("fondo\ 3.jpg");
+    background-repeat: no-repeat;
+    background-position: 500px;
 }
