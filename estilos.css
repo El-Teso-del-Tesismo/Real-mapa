@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 40px;
-    padding-top: 100px;
+    font-size: 25px;
+    padding-top: 10px;
     text-align: justify;
     color: rgb(255, 255, 255);
 }
@@ -21,9 +21,9 @@ body{
 }
 
 .img1{
-    height: 922px;
+    height: 1000px;
     width: 1368px;
-    background-image: url("fondo\ 6.png");
+    background-image: url("circuito_simple.png");
     background-repeat: no-repeat ;
     display: flex;
 }
