@@ -73,3 +73,15 @@ body{
 .canserbero{
     color: rgb(221, 255, 0);
 }
+.img3{
+    height: 682px;
+    width: 664px;
+    background-image: url("segundo.jpg");
+    float: left;
+    background-repeat: no-repeat;
+}
+.macho{
+    height: 6px;
+    color: #7459d5;
+    
+}
