@@ -5,25 +5,71 @@
     font-size: 25px;
     padding-top: 10px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(123, 133, 228);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .principal{
    display: flex;
      
 }
 body{
-   background-image: url("mejorado.webp");
+   background-image: url("Dragones.webp");
     background-repeat: no-repeat;
 }
 .titulo{
     text-align: center;
-    font-size: larger;
+    font-size: 53px;
+    padding-top: 31px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(26, 10, 248);
 }
 
 .img1{
-    height: 1000px;
-    width: 1368px;
+    height: 352px;
+    width: 396px;
     background-image: url("circuito_simple.png");
-    background-repeat: no-repeat ;
-    display: flex;
+    background-repeat: no-repeat;
+    float: left;
+}
+.resumen{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(159, 230, 230);
+}
+.semititulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(36, 129, 150);
+}
+.semitexto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(230, 151, 222);
+}
+.fuentetexto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(170, 128, 210);
+}
+.textofuente{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(191, 220, 75);
+}
+.img2{
+    height: 431px;
+    width: 548px;
+    background-image: url("gran-colombia.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.mariposa{
+    color: rgb(0, 247, 255);
+}
+.libelula{
+    color: rgb(47, 0, 255);
+}
+.jirafa{
+    color: rgb(255, 140, 0);
+}
+.lombris{
+    color: rgb(255, 0, 162);
+}
+.canserbero{
+    color: rgb(221, 255, 0);
 }
