@@ -13,7 +13,7 @@
      
 }
 body{
-   background-image: url("fondo\ tresmil.jpg");
+   background-image: url("Dragones.webp");
     background-repeat: no-repeat;
 }
 .titulo{
@@ -52,11 +52,12 @@ body{
     color: rgb(191, 220, 75);
 }
 .img2{
-    height: 431px;
-    width: 548px;
+    height: 100%;
+    width: 100%;
     background-image: url("gran-colombia.jpg");
     background-repeat: no-repeat;
     float: left;
+    background-position: center;
 }
 .mariposa{
     color: rgb(0, 247, 255);
@@ -73,15 +74,15 @@ body{
 .canserbero{
     color: rgb(221, 255, 0);
 }
+.img3{
+    height: 682px;
+    width: 664px;
+    background-image: url("segundo.jpg");
+    float: left;
+    background-repeat: no-repeat;
+}
 .macho{
     height: 6px;
     color: #7459d5;
     
-}
-.img3{
-    height: 340px; ;
-    width: 571px;
-    background-image: url("coronavirus.jpg");
-    float: left;
-    background-repeat: no-repeat;
 }
