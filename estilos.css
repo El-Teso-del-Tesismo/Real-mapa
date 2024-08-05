@@ -5,7 +5,7 @@
     font-size: 25px;
     padding-top: 10px;
     text-align: justify;
-    color: rgb(123, 133, 228);
+    color: rgb(3, 5, 22);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .principal{
@@ -13,15 +13,14 @@
      
 }
 body{
-   background-image: url("Dragones.webp");
-    background-repeat: no-repeat;
+   background-image: url("mejoracion\ del\ fondo.jpeg");
 }
 .titulo{
     text-align: center;
     font-size: 53px;
     padding-top: 31px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(26, 10, 248);
+    color: rgb(8, 7, 27);
 }
 
 .img1{
@@ -58,6 +57,118 @@ body{
     background-repeat: no-repeat;
     float: left;
     background-position: center;
+}
+.img4{
+height: 300px;
+width: 100%;
+background-repeat: no-repeat;
+background-image: url("Inglés\ de\ josué.jpg");
+background-position: center;
+float: left;
+}
+.img5{
+    width: 100%;
+    height: 278px;
+    background-repeat: no-repeat;
+    background-image: url("Más\ inglés\ de\ Josué.png");
+    background-position: center;
+    float: left;
+}
+.ing1{
+    width: 100%;
+    height: 626px;
+    background-repeat: no-repeat;
+    background-image: url("persona-durmiendo-cama-estilo-flat_23-2148147396.avif");
+    background-position: center;
+    float: left;
+}
+.ing2{
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-image: url("ensalada-de-lechuga-y-tomate-foto-cerca.jpg");
+    background-position: center;
+    float: left;
+}
+.ing3{
+    width: 100%;
+    height:698px ;
+background-repeat: no-repeat;
+background-image: url("sentadilla.webp");
+background-position: center;
+float: left;
+}
+.ing4{
+    width: 100%;
+    height: 338px; ;
+background-repeat: no-repeat;
+background-image: url("libro.avif");
+background-position: center;
+float: left;
+}
+.ing5{
+    width: 100%;
+    height: 626px; ;
+background-repeat: no-repeat;
+background-image: url("medico.avif");
+background-position: center;
+float: left;
+}
+.ing6{
+    width: 100%;
+    height: 867px; ;
+background-repeat: no-repeat;
+background-image: url("arboleda.jpg");
+background-position: center;
+float: left;
+}
+.ing7{
+    width: 100%;
+    height:626px ;
+background-repeat: no-repeat;
+background-image: url("autocuidado.avif");
+background-position: center;
+float: left;
+}
+.ing8{
+    width: 100%;
+    height: 500px; ;
+background-repeat: no-repeat;
+background-image: url("Badminton-Explicacion-para-ninos.jpg");
+background-position: center;
+float: left;
+}
+.ing9{
+    width: 100%;
+    height: 490px;
+background-repeat: no-repeat;
+background-image: url("centro-comercial-mas-grande-de-colombia.jpg");
+background-position: center;
+float: left;
+}
+.ing10{
+    width: 100%;
+    height: 400px; ;
+background-repeat: no-repeat;
+background-image: url("cepillo.jpg");
+background-position: center;
+float: left;
+}
+.ing11{
+    width: 100%;
+    height: 338px; ;
+background-repeat: no-repeat;
+background-image: url("ducha.avif");
+background-position: center;
+float: left;
+}
+ing12{
+    width: 612px;
+    height: 612px; ;
+background-repeat: no-repeat;
+background-image: url("nofu.jpg");
+background-position:center ;
+float: left;
 }
 .mariposa{
     color: rgb(0, 247, 255);
