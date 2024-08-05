@@ -32,23 +32,23 @@ body{
 }
 .resumen{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(159, 230, 230);
+    color: rgb(3, 14, 14);
 }
 .semititulo{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(36, 129, 150);
+    color: rgb(2, 13, 15);
 }
 .semitexto{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(230, 151, 222);
+    color: rgb(20, 5, 19);
 }
 .fuentetexto{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(170, 128, 210);
+    color: rgb(9, 3, 15);
 }
 .textofuente{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(191, 220, 75);
+    color: rgb(18, 19, 16);
 }
 .img2{
     height: 100%;
@@ -162,8 +162,8 @@ background-image: url("ducha.avif");
 background-position: center;
 float: left;
 }
-ing12{
-    width: 612px;
+.ing12{
+    width: 1300px;
     height: 612px; ;
 background-repeat: no-repeat;
 background-image: url("nofu.jpg");
@@ -196,4 +196,36 @@ float: left;
     height: 6px;
     color: #7459d5;
     
+}
+.con1{
+    width: 1300px;
+    height: 1599px;
+    background-repeat: no-repeat;
+    background-image: url("josue.jpeg");
+    background-position: center;
+    float: left;
+}
+.con2{
+    width: 100%;
+    height: 1280px;
+    background-repeat: no-repeat;
+    background-image: url("WhatsApp\ Image\ 2024-08-04\ at\ 5.50.31\ PM.jpeg");
+    background-position: center;
+    float: left;
+}
+.con3{
+    width: 100%;
+    height: 1600px;
+    background-repeat: no-repeat;
+    background-image: url("WhatsApp\ Image\ 2024-08-04\ at\ 5.50.37\ PM.jpeg");
+    background-position: center;
+    float: left;
+}
+.mpp{
+    width: 100%;
+    height: 578px;
+    background-repeat: no-repeat;
+    background-image: url("mapam.jpg");
+    background-position: center;
+    float: left;
 }
